@@ -1,1 +1,2 @@
-print("Hola desde python")
+nombre= "Javier"
+print(f"Hola {nombre}")  
